@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philo&#39;s Book Reviews </title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>http://phillchill.github.io/bookshelf/</link>
     <language>en-us</language>
     <author>Philo van Kemenade</author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Good To Great Book Review</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+          <link>http://phillchill.github.io/bookshelf/post/good-to-great/</link>
           <pubDate>Sun, 24 Apr 2016 00:43:50 CEST</pubDate>
           <author>Philo van Kemenade</author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+          <guid>http://phillchill.github.io/bookshelf/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;a great book&lt;/strong&gt;. It was awesome!&lt;/p&gt;
 </description>
         </item>
